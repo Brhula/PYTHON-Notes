@@ -1,12 +1,17 @@
-Lambda
+### Programacion funcional en Python
+
+**Lambda**
 
 lambda operator or lambda function is used for creating small, one-time and anonymous function objects in Python.
 
 example syntax
 
+```Python
 add = lambda x, y : x + y  
 print add(2, 3)
-type(add)#Output
+type(add)
+
+#Output 
 5
 function
-
+```
