@@ -12,5 +12,8 @@ Notes while learning Python coding
 
 
 ***Cheat Sheets***   
+
+[Extensive Cheat Sheet (Python)](https://www.pythoncheatsheet.org/)   
+   
 [Virtual enviroments](https://cheatography.com/ilyes64/cheat-sheets/python-virtual-environments/pdf/)   
 [Virtual enviroments (no new install, only standar python)](https://gist.github.com/ryanbehdad/858b47b54be441a684efb7ae6ca98a75)   
