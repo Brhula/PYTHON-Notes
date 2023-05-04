@@ -8,7 +8,7 @@ Notes while learning Python coding
 [Funcional programming](https://medium.com/@rohanroyjacob/functional-programming-in-python-1-lambda-map-filter-reduce-zip-6fed5b48fecb)    
 
 
-[Virtual Enviroments (venv) in Windows](https://www.youtube.com/watch?v=APOPm01BVrk)
+[Virtual Enviroments (venv) in Windows (Youtube video!)](https://www.youtube.com/watch?v=APOPm01BVrk)
 
 
 ***Cheat Sheets***   
